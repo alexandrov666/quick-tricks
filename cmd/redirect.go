@@ -2,8 +2,8 @@ package cmd
 
 import (
 	"fmt"
-	"github.com/indigo-sadland/quick-tricks/modules/redirect"
-	"github.com/indigo-sadland/quick-tricks/utils/colors"
+	"github.com/alexandrov666/quick-tricks/modules/redirect"
+	"github.com/alexandrov666/quick-tricks/utils/colors"
 	"github.com/spf13/cobra"
 )
 
