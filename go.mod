@@ -1,4 +1,4 @@
-module github.com/indigo-sadland/quick-tricks
+module github.com/alexandrov666/quick-tricks
 
 go 1.19
 
