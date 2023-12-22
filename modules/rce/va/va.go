@@ -3,9 +3,9 @@ package va
 import (
 	"bytes"
 	"fmt"
-	"github.com/indigo-sadland/quick-tricks/modules/tokens"
-	"github.com/indigo-sadland/quick-tricks/utils/colors"
-	"github.com/indigo-sadland/quick-tricks/utils/netclient"
+	"github.com/alexandrov666/quick-tricks/modules/tokens"
+	"github.com/alexandrov666/quick-tricks/utils/colors"
+	"github.com/alexandrov666/quick-tricks/utils/netclient"
 	"io"
 	"math/rand"
 	"net/http"
